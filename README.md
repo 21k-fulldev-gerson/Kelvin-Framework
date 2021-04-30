@@ -6,6 +6,9 @@ O Kelvin é um framework PHP que atua trazendo Classes e Funções de CRUD pront
 # Estrutura do Kelvin
 Para utilizar o Kelvin, basta clonar o repositorio e realizar as alterações nas classes e funções montadas e adapta-las ao seu projeto.
 
+# Conexão com banco de dados Mysql
+Para conectar com o banco, basta alterar as informações de acesso ao seu DB. O contrutor da conexão já está montado, basta apenas setar para seu host. 
+
 ![Concet](https://user-images.githubusercontent.com/78809869/116016130-0b0dad80-a612-11eb-9ad8-05daf32a60d3.png)
 
 # CRUD com Kelvin
