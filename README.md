@@ -1,16 +1,10 @@
 # Kelvin-Framework
 
 # Iniciando com o Kelvin
-O Kelvin é um framework PHP que atua em projetos padrão MVC, trazendo Classes e Funções de CRUD prontas para adicionar em suas aplicação.
+O Kelvin é um framework PHP que atua trazendo Classes e Funções de CRUD prontas para aplicar nas camadas model e controller do seu projeto de arquitetura MVC.
 
 # Estrutura do Kelvin
-
-Para utilizar o Kelvin, é necessario criar uma pasta chamada API em seu projeto. 
-Dentro desta pasta, deverá ser colocado os arquivos "CONNECTION.PHP" e "CRUD.PHP".
-
-![kelvin](https://user-images.githubusercontent.com/78809869/116015114-9422e580-a60e-11eb-85e8-bf4c2617ee83.png)
-
-Após isso, você deverá realizar as alterações na Classes de conexão com o Banco de dados. 
+Para utilizar o Kelvin, basta clonar o repositorio e realizar as alterações nas classes e funções montadas e adapta-las ao seu projeto.
 
 ![Concet](https://user-images.githubusercontent.com/78809869/116016130-0b0dad80-a612-11eb-9ad8-05daf32a60d3.png)
 
